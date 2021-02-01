@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="framework">
+   <test name="frameworkdesign">
+    <classes>
+       <class name="driver.DriverScript">
+       
+       <methods>
+               <include name="loadClass"></include>
+               <include name="executeTest"></include>
+        </methods>
+        
+        </class>
+    </classes>
+   </test>
+</suite>
